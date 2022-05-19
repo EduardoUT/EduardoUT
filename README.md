@@ -5,6 +5,9 @@ actualmente soy estudiante del programa de Oracle Next Education en asociación 
 - 💞️ Me gustaría colaborar en proyectos en Java, Front-End y Back-end para poder mejorar mis habilidades.
 - :office_worker: Mi Portafolio: https://eduardout.github.io/Portafolio_Web-Oracle-ONE-Challenge/
 - 📫 Puedes contactarme en Gmail: eduardoreyeshernandez98@gmail.com 
+- LinkedIn: <a href="https://www.linkedin.com/in/eduardo-reyes-hern%C3%A1ndez-3040471aa/">
+              <img alt="Eduardo LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+            </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoUT&theme=radical&custom_title=Lenguajes%20más%20usados:)](https://github.com/anuraghazra/github-readme-stats)
 
