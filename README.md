@@ -18,7 +18,7 @@ Soy egresado de la Universidad Tecnológica Fidel Velázquez, formé parte del p
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoUT&theme=gradient&locale=es&rank_icon=github"/>
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoUT&layout=normal&custom_title=Lenguajes%20usados:&card_width=410"/>
+  <img height=200 align="center" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoUT&layout=normal&custom_title=Lenguajes%20usados:&card_width=410"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
