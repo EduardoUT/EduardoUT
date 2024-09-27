@@ -6,13 +6,14 @@ Soy egresado de la Universidad Tecnológica Fidel Velázquez, formé parte del p
   <li>🌱 Actualmente estoy aprendiendo Algoritmos y Estructuras de Datos.</li>
   <li> 🧑‍💼 Inicié mi experiencia como desarrollador con COBOL, JCL y DB2 en sector bancario.
   <li>💞️ Me gustaría colaborar en proyectos en Java o tecnologías Back-end.</li>
-  <li:office_worker: Mi Portafolio: https://eduardout.github.io/Portafolio_Web-Oracle-ONE-Challenge/></li>
-</ul>
-
-<a href="https://www.linkedin.com/in/eduardo-reyes-hern%C3%A1ndez-3040471aa/">
-  <img alt="Eduardo LinkedIn" width="50px" align="center" src="https://raw.githubusercontent.com/EduardoUT/Portafolio_Web-Oracle-ONE-Challenge/refs/heads/master/assets/img/iconos/contacto/linkedin.png"/>
-</a><br>
-
+  <li>👨‍💼 Mi Portafolio: https://eduardout.github.io/Portafolio_Web-Oracle-ONE-Challenge</li>
+  <li>
+    LinkedIn:
+    <a href="https://www.linkedin.com/in/eduardo-reyes-hern%C3%A1ndez-3040471aa/">
+      <img alt="Eduardo LinkedIn" width="30px" align="center" src="https://raw.githubusercontent.com/EduardoUT/Portafolio_Web-Oracle-ONE-Challenge/refs/heads/master/assets/img/iconos/contacto/linkedin.png"/>
+    </a>
+  </li>
+</ul><br>
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoUT&theme=tokyonight&layout=compact&custom_title=Lenguajes%20más%20usados:"/>
 </a>
