@@ -15,10 +15,10 @@ Soy egresado de la Universidad Tecnológica Fidel Velázquez, formé parte del p
   </li>
 </ul><br>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoUT&theme=gradient&locale=es&rank_icon=github"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoUT&theme=gradient&locale=es&rank_icon=github&bg_color=000000&text_color=FFFFFF&show_icons=true"/>
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoUT&layout=normal&custom_title=Lenguajes%20usados:&card_width=410"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoUT&layout=normal&custom_title=Lenguajes%20más%20%20usados:&card_width=410&bg_color=000000&text_color=FFFFFF"/>
 </a>
 
 <!---
