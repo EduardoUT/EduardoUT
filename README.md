@@ -19,6 +19,10 @@ Soy egresado de la Universidad Tecnológica Fidel Velázquez, formé parte del p
 </a>
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoUT&layout=normal&custom_title=Lenguajes%20más%20%20usados:&card_width=410&bg_color=000000&text_color=FFFFFF"/>
+</a><br><br>
+
+<a href="">
+  <img heigth=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoUT&repo=Portafolio_Web-Oracle-ONE-Challenge&bg_color=000000&text_color=FFFFFF"/>
 </a>
 
 <!---
