@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola, Soy @EduardoUT</h1>
 
-Soy egresado de la Universidad Tecnológica Fidel Velázquez, formé parte del programa de Oracle Next Education en asociación con Altura LATAM, aprendiendo Javascript, HTML5, CSS3 como tecnologías front-end así como Java y MySQL del lado del back-end.
+Soy egresado de la Universidad Tecnológica Fidel Velázquez, formé parte del programa de Oracle Next Education en asociación con Alura LATAM, aprendiendo Javascript, HTML5, CSS3 como tecnologías front-end así como Java y MySQL del lado del back-end.
 <ul>
   <li>👀 He usado estos lenguajes: Java :coffee:, JavaScript, HTML5, CSS3, Python Básico, MySQL y COBOL.</li>
   <li>🌱 Actualmente estoy aprendiendo y prácticando Algoritmos y Estructuras de Datos.</li>
